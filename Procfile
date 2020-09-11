@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=prod ./target/supermarket-api-0.0.1-SNAPSHOT.jar
