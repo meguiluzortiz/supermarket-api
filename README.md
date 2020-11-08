@@ -1,4 +1,4 @@
-# SUPERMARKET-BACKEND
+# SUPERMARKET-API
 
 ## Requirements
 
